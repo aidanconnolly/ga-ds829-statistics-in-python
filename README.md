@@ -29,36 +29,36 @@
 
 ## Lesson Outline
 
-- [Where are we in the data science workflow?](#where-are-we-in-the-data-science-workflow)
-- [Linear Algebra Review](#linear-algebra-review)
-    - [Scalars, vectors and matrices](#scalars-vectors-and-matrices)
-	- [Basic matrix algebra](#basic-matrix-algebra)
-	- [Dot product](#dot-product)
-	- [Matrix multiplication](#matrix-multiplication)
-	- [N-Dimensional space](#n-dimensional-space)
-	- [Vector norm](#vector-norm)
-- [Linear Algebra Applications to Machine Learning](#linear-algebra-applications-to-machine-learning)
-	- [Distance between actual values and predicted values](#distance-between-actual-values-and-predicted-values)
-	- [Mean Squared Error](#mean-squared-error)
-	- [Least squares](#least-squares)
-- [Codealong: Examining the Titanic Dataset](#codealong-examining-the-titanic-dataset)
-- [Descriptive Statistics Fundamentals](#descriptive-statistics-fundamentals)
-	- [Measures of Central Tendency](#measures-of-central-tendency)
-	- [Math Review](#math-review)
-	- [Measures of Dispersion: Standard Deviation and Variance](#measures-of-dispersion-standard-deviation-and-variance)
-- [Our First Model](#our-first-model)
-- [A Short Introduction to Model Bias and Variance](#a-short-introduction-to-model-bias-and-variance)
-	- [Bias-Variance decomposition](#bias-variance-decomposition)
-	- [Example using Bessel's correction](#example-using-bessels-correction)
-- [Correlation and Association](#correlation-and-association)
-	- [Codealong: Correlation in Pandas](#codealong-correlation-in-pandas)
-- [The Normal Distribution](#the-normal-distribution)
-	- [What is the Normal Distribution?](#what-is-the-normal-distribution)
-	- [Skewness](#skewness)
-	- [Kurtosis](#kurtosis)
-- [Determining the Distribution of Your Data](#determining-the-distribution-of-your-data)
-	- [Exercise](#exercise)
-- [Topic Review](#topic-review)
+- Where are we in the data science workflow?
+- Linear Algebra Review
+    - Scalars, vectors and matrices
+	- Basic matrix algebra
+	- Dot product
+	- Matrix multiplication
+	- N-Dimensional space
+	- Vector norm
+- Linear Algebra Applications to Machine Learning
+	- Distance between actual values and predicted values
+	- Mean Squared Error
+	- Least squares
+- Codealong: Examining the Titanic Dataset
+- Descriptive Statistics Fundamentals
+	- Measures of Central Tendency
+	- Math Review
+	- Measures of Dispersion: Standard Deviation and Variance
+- Our First Model
+- A Short Introduction to Model Bias and Variance
+	- Bias-Variance decomposition
+	- Example using Bessel's correction
+- Correlation and Association
+	- Codealong: Correlation in Pandas
+- The Normal Distribution
+	- What is the Normal Distribution?
+	- Skewness
+	- Kurtosis
+- Determining the Distribution of Your Data
+	- Exercise
+- Topic Review
 
 ---
 
