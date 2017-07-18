@@ -8,7 +8,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Two part lesson, outlined below | [Here](./Statistics-Review-part-1.ipynb) |
+| Lesson | Statistics-Review-part-1.ipynb | [Here](./Statistics-Review-part-1.ipynb) |
 | Solution  | Solution code for blanked out lesson samples | [Here](./solutions-code/Statistics-Review-part-1-solution.ipynb) |
 | Datasets | Titanic Survivors (CSV): Passenger/survival info. | [Here](./data/titanic.csv) |
 <!--| Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |-->
