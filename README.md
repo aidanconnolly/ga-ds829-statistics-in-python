@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Statistics-Review-part-1.ipynb | [Here](./Statistics-Review-part-1.ipynb) |
-| Solution  | Solution code for blanked out lesson samples | [Here](./solutions-code/Statistics-Review-part-1-solution.ipynb) |
+| Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/Statistics-Review-part-1-solution.ipynb) |
 | Datasets | Titanic Survivors (CSV): Passenger/survival info. | [Here](./data/titanic.csv) |
 <!--| Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |-->
 <!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
@@ -31,7 +31,7 @@
 
 - Where are we in the data science workflow?
 - Linear Algebra Review
-    - Scalars, vectors and matrices
+	- Scalars, vectors and matrices
 	- Basic matrix algebra
 	- Dot product
 	- Matrix multiplication
@@ -66,7 +66,8 @@
 
 Before this lesson(s), students should already be able to:
 
-- x
+- Have a basic understanding of arrays
+- Perform basic data manipulation and exploration in Pandas
 
 ----
 
@@ -74,7 +75,14 @@ Before this lesson(s), students should already be able to:
 
 For more information on this topic, check out the following resources:
 
-- x
+- Scikit Learn Documentation:
+	- [Linear Model](http://scikit-learn.org/stable/modules/linear_model.html)
+	- [Dummy Estimators](http://scikit-learn.org/stable/modules/model_evaluation.html#dummy-estimators)
+- Useful Wikipedia Pages:
+	- [Bessel's Correlation](https://en.wikipedia.org/wiki/Bessel%27s_correction)
+	- [Mean Squared Error](https://en.wikipedia.org/wiki/Mean_squared_error)
+- [Think Stats E-Book](http://greenteapress.com/wp/think-stats-2e/)
+- [A great tour of self-guided resources to learn stats relevant to data science](http://machinelearningmastery.com/linear-algebra-machine-learning/) 
 
 
 
