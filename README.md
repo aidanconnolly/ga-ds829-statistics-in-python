@@ -10,10 +10,11 @@
 | --- | --- | --- |
 | Lesson | Statistics-Review-part-1.ipynb | [Here](./Statistics-Review-part-1.ipynb) |
 | Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/Statistics-Review-part-1-solution.ipynb) |
-| Datasets | Titanic Survivors (CSV): Passenger/survival info. | [Here](./data/titanic.csv) |
+| Datasets | Titanic Survival (CSV): Passenger/survival info. | [Here](./data/titanic.csv) |
 <!--| Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |-->
 <!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
 
+The Titanic survival dataset was chosen for this lesson because it is interesting, easy to understand, and commonly used in other tutorials. This dataset is also used in an official Kaggle tutorial (https://www.kaggle.com/c/titanic), which might be useful for students who want to explore Kaggle or the dataset further.
 
 ---
 
@@ -29,35 +30,36 @@
 
 ## Lesson Outline
 
-- Where are we in the data science workflow?
-- Linear Algebra Review
-	- Scalars, vectors and matrices
-	- Basic matrix algebra
-	- Dot product
-	- Matrix multiplication
-	- N-Dimensional space
-	- Vector norm
-- Linear Algebra Applications to Machine Learning
-	- Distance between actual values and predicted values
-	- Mean Squared Error
-	- Least squares
-- Codealong: Examining the Titanic Dataset
-- Descriptive Statistics Fundamentals
-	- Measures of Central Tendency
-	- Math Review
-	- Measures of Dispersion: Standard Deviation and Variance
-- Our First Model
-- A Short Introduction to Model Bias and Variance
-	- Bias-Variance decomposition
-	- Example using Bessel's correction
-- Correlation and Association
+TOTAL (170 min)
+- Where are we in the data science workflow? (5 min)
+- Linear Algebra Review (35 min)
+	- Scalars, vectors and matrices (5 min)
+	- Basic matrix algebra (5 min)
+	- Dot product (5 min)
+	- Matrix multiplication (10 min)
+	- N-Dimensional space (5 min)
+	- Vector norm (5 min)
+- Linear Algebra Applications to Machine Learning (15 min)
+	- Distance between actual values and predicted values (5 min)
+	- Mean Squared Error (5 min)
+	- Least squares (5 min)
+- Codealong: Examining the Titanic Dataset (15 min)
+- Descriptive Statistics Fundamentals (25 min)
+	- Measures of Central Tendency (5 min)
+	- Math Review (10 min)
+	- Measures of Dispersion: Standard Deviation and Variance (10 min)
+- Our First Model (10 min)
+- A Short Introduction to Model Bias and Variance (20 min)
+	- Bias-Variance decomposition (15 min)
+	- Example using Bessel's correction (5 min)
+- Correlation and Association (10 min)
 	- Codealong: Correlation in Pandas
-- The Normal Distribution
-	- What is the Normal Distribution?
-	- Skewness
-	- Kurtosis
-- Determining the Distribution of Your Data
-	- Exercise
+- The Normal Distribution (25 min)
+	- What is the Normal Distribution? (15 min)
+	- Skewness (5 min)
+	- Kurtosis (5 min)
+- Determining the Distribution of Your Data (10 min)
+	- Exercise (10 min)
 - Topic Review
 
 ---
