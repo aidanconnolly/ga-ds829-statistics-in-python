@@ -14,11 +14,13 @@
 <!--| Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |-->
 <!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
 
-The Titanic survival dataset was chosen for this lesson because it is interesting, easy to understand, and commonly used in other tutorials. This dataset is also used in an official Kaggle tutorial (https://www.kaggle.com/c/titanic), which might be useful for students who want to explore Kaggle or the dataset further.
+> The Titanic survival dataset was chosen for this lesson because it is interesting, easy to understand, and commonly used in other tutorials. This dataset is also used in an official Kaggle tutorial (https://www.kaggle.com/c/titanic), which might be useful for students who want to explore Kaggle or the dataset further.
 
 ---
 
 ## Learning Objectives
+
+After this lesson, students will be able to:
 - **Compute** dot products, matrix multiplications, and vector norms by hand and using NumPy.
 - **Code** summary statistics using NumPy and Pandas: mean, median, mode, max, min, quartile, inter-quartile range, variance, standard deviation, and correlation.
 - **Create** basic data visualizations - including: scatter plots, box plots, and histograms.
@@ -28,9 +30,19 @@ The Titanic survival dataset was chosen for this lesson because it is interestin
 
 ---
 
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- State the definition and application of an array in Python 
+- Perform basic data manipulation and exploration in Pandas
+- Recall basic tenants of linear algebra
+
+----
+
+
 ## Lesson Outline
 
-TOTAL (170 min)
+> TOTAL (170 min)
 - Where are we in the data science workflow? (5 min)
 - Linear Algebra Review (35 min)
 	- Scalars, vectors and matrices (5 min)
@@ -64,15 +76,6 @@ TOTAL (170 min)
 
 ---
 
-## Student Requirements
-
-Before this lesson(s), students should already be able to:
-
-- Have a basic understanding of arrays
-- Perform basic data manipulation and exploration in Pandas
-
-----
-
 ## Additional Resources
 
 For more information on this topic, check out the following resources:
@@ -85,15 +88,4 @@ For more information on this topic, check out the following resources:
 	- [Mean Squared Error](https://en.wikipedia.org/wiki/Mean_squared_error)
 - [Think Stats E-Book](http://greenteapress.com/wp/think-stats-2e/)
 - [A great tour of self-guided resources to learn stats relevant to data science](http://machinelearningmastery.com/linear-algebra-machine-learning/) 
-
-
-
-
-
-
-
-
-
-
-
 
