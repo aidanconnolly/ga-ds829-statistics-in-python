@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Statistics Review
 
-> Unit 2 | Lesson 1
+> Unit 2: Required
 
 ---
 
