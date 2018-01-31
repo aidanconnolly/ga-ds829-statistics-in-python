@@ -84,7 +84,7 @@ For more information on this topic, check out the following resources:
 	- [Linear Model](http://scikit-learn.org/stable/modules/linear_model.html)
 	- [Dummy Estimators](http://scikit-learn.org/stable/modules/model_evaluation.html#dummy-estimators)
 - Useful Wikipedia Pages:
-	- [Bessel's Correlation](https://en.wikipedia.org/wiki/Bessel%27s_correction)
+	- [Bessel's Correction](https://en.wikipedia.org/wiki/Bessel%27s_correction)
 	- [Mean Squared Error](https://en.wikipedia.org/wiki/Mean_squared_error)
 - [Think Stats E-Book](http://greenteapress.com/wp/think-stats-2e/)
 - [A great tour of self-guided resources to learn stats relevant to data science](http://machinelearningmastery.com/linear-algebra-machine-learning/) 
