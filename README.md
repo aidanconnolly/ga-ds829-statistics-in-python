@@ -6,14 +6,15 @@
 
 ## Materials We Provide
 
-| Topic | Description | Link |
-| --- | --- | --- |
-| Lesson | Summary Statistics Codealong in Python | [Here](./Statistics-Review-part-1.ipynb) |
-| Solution  | Solution code for Lesson Prompts | [Here](./solution-code/Statistics-Review-part-1-solution.ipynb) |
-| Datasets | Titanic Survival (CSV): Passenger/survival info. | [Here](./data/titanic.csv) |
-| Practice | Descriptive Stats with NumPy (includes data and solutions) | [Here](./practice/python-descriptive_statistics_numpy-lab-master/) |
-|  | Summary Statistics on Sample Data | [Here](./practice/statistics-describing_data-lab-master/) |
-
+| Topic    | Description                                                           | Link                                                               |
+| -------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Lesson   | Summary Statistics Codealong in Python                                | [Here](./Statistics-Review-part-1.ipynb)                           |
+|          | Optional - Linear Algebra Operations with Pandas                      | [Here](./linear-algebra.ipynb)                                     |
+| Solution | Solution code for Statistics Lesson                                   | [Here](./solution-code/Statistics-Review-part-1-solution.ipynb)    |
+|          | Solution code for Linear Algebra Lesson                               | [Here](./solution-code/linear-algebra-solution.ipynb)              |
+| Datasets | Titanic Survival (CSV): Passenger/survival info.                      | [Here](./data/titanic.csv)                                         |
+| Practice | Descriptive Stats with NumPy (includes data and solutions)            | [Here](./practice/python-descriptive_statistics_numpy-lab-master/) |
+|          | Summary Statistics on Sample Data                                     | [Here](./practice/statistics-describing_data-lab-master/)          |
 
 > The Titanic survival dataset was chosen for this lesson because it is interesting, easy to understand, and commonly used in other tutorials. This dataset is also used in an official Kaggle tutorial (https://www.kaggle.com/c/titanic), which might be useful for students who want to explore Kaggle or the dataset further.
 
@@ -22,12 +23,15 @@
 ## Learning Objectives
 
 After this lesson, students will be able to:
-- **Compute** dot products, matrix multiplications, and vector norms by hand and using NumPy.
 - **Code** summary statistics using NumPy and Pandas: mean, median, mode, max, min, quartile, inter-quartile range, variance, standard deviation, and correlation.
 - **Create** basic data visualizations - including: scatter plots, box plots, and histograms.
 - **Describe** characteristics and trends in a dataset using visualizations.
 - **Describe** the bias and variance of statistical estimators.
 - **Identify** a normal distribution within a dataset using summary statistics and data visualizations.
+
+## Optional Learning Objectives
+
+- **Compute** dot products, matrix multiplications, and vector norms by hand and using pandas.
 
 ---
 
@@ -43,19 +47,8 @@ Before this lesson(s), students should already be able to:
 
 ## Lesson Outline
 
-> TOTAL (170 min)
+> Required Statistics Material (70 min)
 - Where are we in the data science workflow? (5 min)
-- Linear Algebra Review (35 min)
-	- Scalars, vectors and matrices (5 min)
-	- Basic matrix algebra (5 min)
-	- Dot product (5 min)
-	- Matrix multiplication (10 min)
-	- N-Dimensional space (5 min)
-	- Vector norm (5 min)
-- Linear Algebra Applications to Machine Learning (15 min)
-	- Distance between actual values and predicted values (5 min)
-	- Mean Squared Error (5 min)
-	- Least squares (5 min)
 - Codealong: Examining the Titanic Dataset (15 min)
 - Descriptive Statistics Fundamentals (25 min)
 	- Measures of Central Tendency (5 min)
@@ -74,6 +67,19 @@ Before this lesson(s), students should already be able to:
 - Determining the Distribution of Your Data (10 min)
 	- Exercise (10 min)
 - Topic Review
+
+> Optional Linear Algebra Material (100 min)
+- Linear Algebra Review (35 min)
+	- Scalars, vectors and matrices (5 min)
+	- Basic matrix algebra (5 min)
+	- Dot product (5 min)
+	- Matrix multiplication (10 min)
+	- N-Dimensional space (5 min)
+	- Vector norm (5 min)
+- Linear Algebra Applications to Machine Learning (15 min)
+	- Distance between actual values and predicted values (5 min)
+	- Mean Squared Error (5 min)
+	- Least squares (5 min)
 
 ---
 
