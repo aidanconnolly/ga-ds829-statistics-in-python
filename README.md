@@ -8,10 +8,8 @@
 
 | Topic    | Description                                                           | Link                                                               |
 | -------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Lesson   | Summary Statistics Codealong in Python                                | [Here](./Statistics-Review-part-1.ipynb)                           |
+| Lesson   | Summary Statistics Codealong in Python                                | [Here](./Statistics-Review.ipynb)                           |
 |          | Optional - Linear Algebra Operations with Pandas                      | [Here](./linear-algebra.ipynb)                                     |
-| Solution | Solution code for Statistics Lesson                                   | [Here](./solution-code/Statistics-Review-part-1-solution.ipynb)    |
-|          | Solution code for Linear Algebra Lesson                               | [Here](./solution-code/linear-algebra-solution.ipynb)              |
 | Datasets | Titanic Survival (CSV): Passenger/survival info.                      | [Here](./data/titanic.csv)                                         |
 | Practice | Descriptive Stats with NumPy (includes data and solutions)            | [Here](./practice/python-descriptive_statistics_numpy-lab-master/) |
 |          | Summary Statistics on Sample Data                                     | [Here](./practice/statistics-describing_data-lab-master/)          |
